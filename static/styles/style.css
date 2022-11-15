@@ -1,0 +1,39 @@
+header {
+    background-color: rgb(117, 105, 118);
+    border: dotted;
+    border-color: #b3917e;
+}
+
+footer {
+    background-color: rgb(141, 77, 60);
+    border: dotted;
+    border-color: rgb(182, 202, 202);
+}
+
+body {
+    background-color: rgb(65, 105, 113);
+}
+
+html * {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+em {
+    font-style: italic;
+}
+
+h1 {
+    color: rgb(35, 106, 4);
+}
+
+h2 {
+    color:#b3917e;
+}
+
+nav a:hover {
+    color: rgb(164, 146, 56);
+}
+
+ul {
+    list-style: none;
+}
